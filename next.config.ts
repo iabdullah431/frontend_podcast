@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/api/search",
-        destination: "http://localhost:3001/api/search",
+        destination: "https://backendpodcast-production.up.railway.app",
       },
     ];
   },
